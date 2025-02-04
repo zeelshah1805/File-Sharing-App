@@ -1,4 +1,4 @@
-# File Sharing Manager
+# File Sharing App
 
 ![1](https://github.com/user-attachments/assets/f6195e6f-596e-4fac-9b70-e2419fcd5251)
 ![2](https://github.com/user-attachments/assets/227f2168-782e-49ed-8524-68e86f24ad25)
