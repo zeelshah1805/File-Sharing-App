@@ -1,7 +1,7 @@
 # File Sharing App
 
 ![1](https://github.com/user-attachments/assets/f6195e6f-596e-4fac-9b70-e2419fcd5251)
-![2](https://github.com/user-attachments/assets/227f2168-782e-49ed-8524-68e86f24ad25)
+
 ![3](https://github.com/user-attachments/assets/f3c7883f-d69a-4b9a-9c2d-524ad1b71b00)
 ![4](https://github.com/user-attachments/assets/970a7287-4ece-4cc5-8779-65e9f07e7e94)
 ![4a](https://github.com/user-attachments/assets/1f3e4a63-902c-42fa-8ed9-526a3e1195d0)
